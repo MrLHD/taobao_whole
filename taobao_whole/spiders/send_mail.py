@@ -17,11 +17,11 @@ def send_email(content=''):
     # 发送邮箱smtp服务器地址
     SMTP_host = 'smtp.163.com'
     # 发送邮箱账户
-    from_addr = '18301003370@163.com'
+    from_addr = '。。。。。。@163.com'
     # 发送邮箱账户密码
-    password = 'LHD920206'
+    password = '。。。。。。'
     # 收件人邮箱地址
-    to_addrs = '18301003370@139.com'
+    to_addrs = '。。。。。。。@139.com'
     #右键主题
     subject = '关于爬虫报警'
 
